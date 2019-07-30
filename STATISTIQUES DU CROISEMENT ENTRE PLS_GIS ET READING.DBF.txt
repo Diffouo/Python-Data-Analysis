@@ -1,0 +1,25 @@
+> NOMBRE DE PL_NewBell ans CONTRACT_NUMBER et sans Contrat_Facture_Terrain = 3542 (compil de 14286 Pls)
+
+> Nombre de Pls sans ou avec un CONTRACT_NUMBER < 200000000 et un Contrat_Facture_Terrain > 200000000 = 311 (compil de 14286 Pls)
+
+Lancement de la jointure avec la table Reading.dbf ...
+
+Feature layer succesfully created
+
+Join succesfully added
+
+Selection done succesfully
+
+Nombre de PL_NewBell croisés avec Reading.dbf= 10187
+
+Copy done succesfully
+
+Selection du croisement du cycle 10 ...
+
+Feature layer succesfully created
+
+Selection done succesfully
+
+Nombre de clients relevés au cycle 10 = 4558
+
+Copy of PL_RDGCycle10 done succesfully
